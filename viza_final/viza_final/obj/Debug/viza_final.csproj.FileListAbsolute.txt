@@ -1,0 +1,6 @@
+C:\Users\Xeyyam\Documents\Visual Studio 2017\Projects\viza_final\viza_final\bin\Debug\viza_final.exe.config
+C:\Users\Xeyyam\Documents\Visual Studio 2017\Projects\viza_final\viza_final\bin\Debug\viza_final.exe
+C:\Users\Xeyyam\Documents\Visual Studio 2017\Projects\viza_final\viza_final\bin\Debug\viza_final.pdb
+C:\Users\Xeyyam\Documents\Visual Studio 2017\Projects\viza_final\viza_final\obj\Debug\viza_final.csprojResolveAssemblyReference.cache
+C:\Users\Xeyyam\Documents\Visual Studio 2017\Projects\viza_final\viza_final\obj\Debug\viza_final.exe
+C:\Users\Xeyyam\Documents\Visual Studio 2017\Projects\viza_final\viza_final\obj\Debug\viza_final.pdb
