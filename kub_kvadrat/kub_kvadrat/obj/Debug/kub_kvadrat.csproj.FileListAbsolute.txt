@@ -1,0 +1,6 @@
+c:\users\kamran.jabiyev\documents\visual studio 2017\Projects\kub_kvadrat\kub_kvadrat\obj\Debug\kub_kvadrat.csprojResolveAssemblyReference.cache
+c:\users\kamran.jabiyev\documents\visual studio 2017\Projects\kub_kvadrat\kub_kvadrat\bin\Debug\kub_kvadrat.exe.config
+c:\users\kamran.jabiyev\documents\visual studio 2017\Projects\kub_kvadrat\kub_kvadrat\bin\Debug\kub_kvadrat.exe
+c:\users\kamran.jabiyev\documents\visual studio 2017\Projects\kub_kvadrat\kub_kvadrat\bin\Debug\kub_kvadrat.pdb
+c:\users\kamran.jabiyev\documents\visual studio 2017\Projects\kub_kvadrat\kub_kvadrat\obj\Debug\kub_kvadrat.exe
+c:\users\kamran.jabiyev\documents\visual studio 2017\Projects\kub_kvadrat\kub_kvadrat\obj\Debug\kub_kvadrat.pdb
